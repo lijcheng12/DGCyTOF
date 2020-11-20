@@ -1,0 +1,5 @@
+site_name: DGCyTOF
+theme: readthedocs
+
+site_description: 'Documentation for DGCyTOF, deep learning for CyTOF to identify cell populations'
+repo_url: https://github.com/lijcheng/Cell_population_identification
