@@ -5,7 +5,7 @@
 ## API Link
 ### https://github.com/lijcheng12/DGCyTOF/blob/main/DGCyTOF_Package/docs/API.md.
 
-
+## What is DGCyTOF
 A new tool Deep learning with Graphical clustering for CyTOF, called DGCyTOF, is developed to identify cell populations. The method novelty is to distinguish the calibration cell population and the new cell population by a sequential four steps with an iteration calibration system. 
 
 First, deep classification learning is constructed to identify the calibration cell population by the SoftMax classification assignment. These unknown types of cells will be filtered by the probability threshold from all cells. 
